@@ -1,2 +1,2 @@
 console.log('hello, world');
-console.log('bem vindo ao git')
+console.log('bem vindo ao git');
